@@ -1,3 +1,6 @@
+# Note
+The repository has migrated to https://github.com/genemine2/BaiHui.
+
 # The brain-specific functional gene network in the BaiHui database
 
 This brain-specific functional gene network was built by probabilistically integrating expertly-hand-curated (by reading original publications) heterogeneous genomics data. Details of this network are described in the following paper.<br>
